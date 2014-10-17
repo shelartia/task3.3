@@ -3,7 +3,7 @@ task3.3
 
 With mongodb and mssql
 *****
-In Project.Settings set CustomProvider with parameter = "MSSQL" to use MSSQL. By default is using Mongodb.
+In web.config use branch <unity> to set wich db provider will be used.
 
 *****
 Tables:
